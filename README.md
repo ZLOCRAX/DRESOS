@@ -30,7 +30,8 @@ Karma fw (firewall)        https://www.stargw.net/android/karma/
 Orbot (tor router)        https://github.com/guardianproject/orbot      
 Fake traveler (mock location)       https://github.com/mcastillof/FakeTraveler      
 Innertune (modded youtube premium music)          https://github.com/Malopieds/InnerTune      
-DuckDuckGo (browser) https://github.com/duckduckgo   
+DuckDuckGo (browser)      
+https://github.com/duckduckgo   
 Arcane chat (decentralized messaging)        https://github.com/ArcaneChat        
 Aurora stores (app store)     
 https://auroraoss.com/      
