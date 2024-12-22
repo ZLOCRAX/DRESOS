@@ -5,7 +5,7 @@ My Mobile phone operating system
 Hello i am ŚLIMAK/ZłO a self taught software dev who specialises in bash language (OS language) and a self trained cyber security engineer and i would like to welcome you to my first ever mobile phone operating system DRESOS.
 
 {DEVICES}
-DRESOSV1-1-1 is for android 10 devices, with similiar specs to  the moto g7 plus it is a degoogled rootless device built on a linux kernel. This will work on moto g7 plus straight from the box. OS size is around 6gbs, use twrp or flash straight to your device via ADB debugging to start using it safely.
+DRESOSV1-1-1 is for android 10 devices, with similiar specs to  the moto g7 plus it is a degoogled rootless device built on a linux kernel. This will work on moto g7 plus straight from the box. OS size is around 6gbs, use twrp to download it safely unless you are a pro like me and trust your self enough to do it your way.
 
 {BUILD/FEATURES}
 I broke Motorolas system code down to the source aosp and root then rebuilt it into an encrypted mobile phone operating system. I got rid of all moto/google services and apps degoogling the Device Whilst keeping it rootless. All apps are bullt on FOSS and the systems sec features are a firewall so you can have control over your devices network (starts from boot), tor relay set up through orbot, Qaud9 dns server, mock location, offline anti virus, decentrilised messaging application, apk installer to downgrade or upgrade apks, encrypted and private browser, aurora/fdroid services to spoof google play services,Microg built and on device sync and backup to SD card.
@@ -53,7 +53,11 @@ Patches to come in {V1.1.2}
 currently on the lookout for voluntary maintainers to help with updates, debug and come up with new features, this is a project i want to keep alive because i love how Something so small can turn out to be Something beautiful and powerful.
 
 {END_NOTES}
-F.Y.I if you're prepared to there is a bunch of cyber sec apps disabled in app settings so if you want to go ahead and enable them please feel free to do so but at your own risk, i built an encrypted and secure operating system that doesnt need any extra features but if you want extra features they are there for you to use at your own risk the reason i put  them there is for advanced cyber sec engineers/software devs to mess around with my software
+F.Y.I if you're prepared to there is a bunch of cyber sec apps disabled in app settings so if you want to go ahead and enable them please feel free to do so but at your own risk, i built an encrypted and secure operating system that doesnt need any extra features but if you want extra features they are there for you to use at your own risk the reason i put  them there is for advanced cyber sec engineers/software devs to mess around with my software fyi if you do try this on Other Devices i am not responsible for any bricking of the Device and i suggest setting up and using twrp recovery mode, to back up your original system and to download my one over adb sideloading.
+
+Please download the zip file from the link down below:
+
+https://mega.nz/file/DQtnxTwI#aZNo5PidWzWrfPbKfvjj3XsVdtC0rUDGPtOz9cfRUfc
 
 DRESOS v2.1.1 for android 14 device's out early 2025.
 
@@ -61,7 +65,6 @@ Anyways enjoy
 
 -ZłO
 
-(will be uploading zip file soon)
 
 ![1000645498](https://github.com/user-attachments/assets/b73d35e1-125d-4a31-9957-ab9a664ce8e9)
 ![1000645318](https://github.com/user-attachments/assets/12b527a0-a3c1-48de-9c79-1fb99232a885)
