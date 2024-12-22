@@ -59,6 +59,8 @@ Please download the zip file from the link down below:
 
 https://mega.nz/file/DQtnxTwI#aZNo5PidWzWrfPbKfvjj3XsVdtC0rUDGPtOz9cfRUfc
 
+This is just the start so i hope you all come along for the journey with me,
+
 DRESOS v2.1.1 for android 14 device's out early 2025.
 
 Anyways enjoy
